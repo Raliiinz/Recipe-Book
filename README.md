@@ -26,7 +26,8 @@
 - **Retrofit** (работа с API)  
 - **Coroutines & Flow** (асинхронные операции)  
 - **Room Database**
-- **Glide** (загрузка изображений)  
+- **Glide** (загрузка изображений)
+- **Shimmer**
 - **View Binding**  
 - **RecyclerView & DiffUtil** (оптимизированные списки)  
 - **Shimmer** (анимация загрузки)  
