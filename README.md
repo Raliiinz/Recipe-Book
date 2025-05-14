@@ -21,15 +21,17 @@
 ## Технологии  
 
 - **Kotlin**  
-- **Android Studio**  
+- **Android Studio**
+- **XML**
 - **Retrofit** (работа с API)  
 - **Coroutines & Flow** (асинхронные операции)  
-- **Room Database** (локальное кэширование)  
+- **Room Database**
 - **Glide** (загрузка изображений)  
 - **View Binding**  
 - **RecyclerView & DiffUtil** (оптимизированные списки)  
 - **Shimmer** (анимация загрузки)  
-- **Single Activity + Фрагменты** (навигация)  
+- **Single Activity + Фрагменты** (навигация)
+- **Jetpack Navigation**
 - **MVVM + Clean Architecture**  
 - **Модульность** (удобная структура кода)  
 - **Внедрение зависимостей (Hilt)**  
@@ -50,3 +52,15 @@
 Проект был разработан за **1-2 недели** и помог улучшить навыки Android-разработки, работы с API и архитектурой приложений.  
 
 ### Скриншоты  
+![Screenshot_20250514_115447](https://github.com/user-attachments/assets/0c6a9890-4caf-48c0-bb21-fc0bb81f152e)
+![Screenshot_20250514_115527](https://github.com/user-attachments/assets/a00f574b-e4ff-44b6-ac31-96a8e7c35c5b)
+![Screenshot_20250514_115623](https://github.com/user-attachments/assets/755f6add-7316-44a5-af9d-6d70c39a2cb2)
+![Screenshot_20250514_115637](https://github.com/user-attachments/assets/8c63b6eb-47a6-4829-929d-dfbf948906fc)
+![Screenshot_20250514_115647](https://github.com/user-attachments/assets/b949b7b1-3ad6-4c45-9b08-3329ebedc441)
+
+### Скринкаст
+https://disk.yandex.ru/i/isIVyaeXxQZzfA
+
+
+
+
