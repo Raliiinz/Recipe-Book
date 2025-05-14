@@ -52,6 +52,12 @@
 Проект был разработан за **1-2 недели** и помог улучшить навыки Android-разработки, работы с API и архитектурой приложений.  
 
 ### Скриншоты  
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="![Screenshot_20250514_115447](https://github.com/user-attachments/assets/0c6a9890-4caf-48c0-bb21-fc0bb81f152e)" width="200" alt="Экран входа" />  
+  <img src="screenshots/screen2.jpg" width="200" alt="Поиск рецептов" />  
+  <img src="screenshots/screen3.jpg" width="200" alt="Детали рецепта" />  
+</div>
 ![Screenshot_20250514_115447](https://github.com/user-attachments/assets/0c6a9890-4caf-48c0-bb21-fc0bb81f152e)
 ![Screenshot_20250514_115527](https://github.com/user-attachments/assets/a00f574b-e4ff-44b6-ac31-96a8e7c35c5b)
 ![Screenshot_20250514_115623](https://github.com/user-attachments/assets/755f6add-7316-44a5-af9d-6d70c39a2cb2)
